@@ -1,6 +1,6 @@
 module github.com/dcarbone/tfcloud-provider-push-action/action
 
-go 1.24.0
+go 1.25.0
 
 require (
 	github.com/dcarbone/go-tfc v0.0.0-20220322162744-1ba33c6ca9c2
@@ -16,6 +16,6 @@ require (
 	github.com/hashicorp/errwrap v1.0.0 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
-	golang.org/x/crypto v0.45.0 // indirect
-	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/crypto v0.52.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 )
